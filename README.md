@@ -21,3 +21,7 @@ Crypto coins font
 - DEM
 - CARB
 - BLK
+- ZCC
+- WDC
+- DGC
+- SRC
