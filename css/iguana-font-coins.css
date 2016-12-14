@@ -1,87 +1,110 @@
 @font-face {
   font-family: 'icomoon';
-  src: url('fonts/icomoon.eot?d6hbo3');
-  src: url('fonts/icomoon.eot?d6hbo3#iefix') format('embedded-opentype'),
-       url('fonts/icomoon.ttf?d6hbo3') format('truetype'),
-       url('fonts/icomoon.woff?d6hbo3') format('woff'),
-       url('fonts/icomoon.svg?d6hbo3#icomoon') format('svg');
+  src: url('fonts/icomoon.eot?eo9tfp');
+  src: url('fonts/icomoon.eot?eo9tfp#iefix') format('embedded-opentype'),
+       url('fonts/icomoon.ttf?eo9tfp') format('truetype'),
+       url('fonts/icomoon.woff?eo9tfp') format('woff'),
+       url('fonts/icomoon.svg?eo9tfp#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
-
-.NLG-alt:before {
+.ANC-alt:before {
   font-family: 'icomoon' !important;
-  content: "\e910" !important;
-}
-.SC-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e906";
-}
-.ABC-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e90a";
-}
-.BTM-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e900";
-}
-.UNO-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e901";
-}
-.FRC-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e90f";
-}
-.MEC-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e90b";
-}
-.XRP-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e90c" !important;
-}
-.PPC-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e90d" !important;
-}
-.LMC-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e90e";
-}
-.EMC2-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e911";
+  content: '\e900' !important;
 }
 .APC-alt:before {
   font-family: 'icomoon' !important;
-  content: "\e912";
-}
-.GMC-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e905";
-}
-.ZET-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e902";
-}
-.MZC-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e903";
-}
-.KMD-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e904";
-}
-.DEM-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e907";
-}
-.CARB-alt:before {
-  font-family: 'icomoon' !important;
-  content: "\e908";
+  content: '\e916' !important;
 }
 .BLK-alt:before {
   font-family: 'icomoon' !important;
-  content: "\e909";
+  content: '\e917' !important;
+}
+.BTM-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e901' !important;
+}
+.CARB-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e902' !important;
+}
+.DEM-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e903' !important;
+}
+.DGC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e904' !important;
+}
+.EMC2-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e905' !important;
+}
+.FRC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e906' !important;
+}
+.FRK-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e907' !important;
+}
+.GMC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e908' !important;
+}
+.KMD-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e909' !important;
+}
+.LMC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e90a' !important;
+}
+.MEC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e90b' !important;
+}
+.MZC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e90c' !important;
+}
+.NLG-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e90d' !important;
+}
+.PPC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e90e' !important;
+}
+.SC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e90f' !important;
+}
+.SRC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e910' !important;
+}
+.SYS-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e911' !important;
+}
+.UNO-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e912' !important;
+}
+.WDC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e913' !important;
+}
+.XRP-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e914' !important;
+}
+.ZCC-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e915' !important;
+}
+.ZET-alt:before {
+  font-family: 'icomoon' !important;
+  content: '\e918' !important;
 }
