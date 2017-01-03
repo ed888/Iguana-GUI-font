@@ -25,3 +25,13 @@ Crypto coins font
 - WDC
 - DGC
 - SRC
+- NVC
+- FLO
+- VTR
+- QRK
+- IFC
+- FTC
+- BCN
+- XST
+- XEN
+- C2
