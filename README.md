@@ -35,3 +35,5 @@ Crypto coins font
 - XST
 - XEN
 - C2
+
+Coins are accessible in black & white as well as in color.
